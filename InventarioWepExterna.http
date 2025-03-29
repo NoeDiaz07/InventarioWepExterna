@@ -1,0 +1,6 @@
+@InventarioWepExterna_HostAddress = http://localhost:5070
+
+GET {{InventarioWepExterna_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
