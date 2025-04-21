@@ -1,5 +1,8 @@
 ﻿namespace InventarioWepExterna.DTO
 {
+    /// <summary>
+    /// DTO para crear un libro
+    /// </summary>
     public class CreateBookDTO
     {
         public string Title { get; set; }
